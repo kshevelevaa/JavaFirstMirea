@@ -13,7 +13,7 @@
 
 ## Дополнительные материалы
 
-[Шпаргалка Java программиста 3. Коллекции в Java (стандартные, guava, apache, trove, gs-collections и другие) / Блог компании Luxoft / Хабр (habr.com)](https://habr.com/ru/company/luxoft/blog/256877/)
+[Шпаргалка Java программиста 3. Коллекции в Java (стандартные, guava, apache, trove, gs-collections и другие) / Блог компании Luxoft / Хабр (habr.com)](Ы)
 
 [Java Collections Framework (javarush.ru)](https://javarush.ru/groups/posts/2308-korotko-o-glavnom---java-collections-framework)
 
